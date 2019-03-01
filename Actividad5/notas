@@ -1,0 +1,2 @@
+- Hacer algoritmo para calcular el número de días seguidos de lluvia.
+   - si llueve el primero, checar si llueve el segundo... checar si llueve el 5to y entonces agregar uno al contador.
